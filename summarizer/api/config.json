@@ -1,0 +1,5 @@
+{
+    "PRE_TRAINED_MODEL": "t5-base",
+    "MAX_INPUT_LEN": 512,
+    "MAX_OUTPUT_LEN": 4
+}
